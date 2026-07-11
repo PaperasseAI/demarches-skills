@@ -1,0 +1,59 @@
+{
+  "indexUrl": "https://france-visas.gouv.fr/lieu-de-depot",
+  "note": "Cache of the official France-Visas lieu-de-dépôt index, not a source of truth. URLs are language-neutral canonical (the /en/ prefix is only a language-preference redirect). Volatility differs per field: the operator (TLScontact/VFS/Capago/consulate) and cities are stable over years and NOT derivable from the country name (UK is not /uk); but `notice` — and even whether a centre still exists — can change WITHOUT WARNING, so treat any notice as a timestamped hint (`retrievedAt`) to present as 'as of that date', and confirm current status on the official page. `nextCheck` flags a row as due for re-verification; `verified:false` = curated but not yet source-checked. Note: france-visas.gouv.fr rejects plain HTTP fetches, so refreshing this cache requires a real browser session.",
+  "centres": [
+    {
+      "country": "Nigeria",
+      "aliases": [
+        "ng",
+        "nga",
+        "federal republic of nigeria"
+      ],
+      "operator": "TLScontact",
+      "cities": [
+        "Abuja",
+        "Lagos"
+      ],
+      "franceVisasUrl": "https://france-visas.gouv.fr/nigeria",
+      "bookingUrl": "https://fr.tlscontact.com",
+      "notice": "From 17 November 2025 until further notice, TLScontact Abuja receives applications ONLY for: family of a French national, family reunification, and diplomatic travel. Documents are accepted in French or English only; any other language needs a French or English translation.",
+      "retrievedAt": "2026-06-09",
+      "nextCheck": "2026-09-01",
+      "verified": true
+    },
+    {
+      "country": "Ghana",
+      "aliases": [
+        "gh",
+        "gha"
+      ],
+      "operator": "VFS Global",
+      "cities": [
+        "Accra"
+      ],
+      "franceVisasUrl": "https://france-visas.gouv.fr/ghana",
+      "bookingUrl": "https://visa.vfsglobal.com",
+      "notice": null,
+      "retrievedAt": "2026-07-03",
+      "nextCheck": "2026-10-03",
+      "verified": false
+    },
+    {
+      "country": "Rwanda",
+      "aliases": [
+        "rw",
+        "rwa"
+      ],
+      "operator": "VFS Global",
+      "cities": [
+        "Kigali"
+      ],
+      "franceVisasUrl": "https://france-visas.gouv.fr/rwanda",
+      "bookingUrl": "https://visa.vfsglobal.com",
+      "notice": null,
+      "retrievedAt": "2026-07-03",
+      "nextCheck": "2026-10-03",
+      "verified": false
+    }
+  ]
+}

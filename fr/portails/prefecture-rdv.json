@@ -1,0 +1,46 @@
+{
+  "indexUrl": "https://rdv-prefecture.interieur.gouv.fr/",
+  "rdvPagePath": "/Prendre-un-rendez-vous",
+  "note": "Cache of the national préfecture RDV index (rdv-prefecture.interieur.gouv.fr), keyed by département. The site slug (www.{slug}.gouv.fr) is NOT derivable from the département name (yvelines and val-de-marne happen to match, but not all do) — entries are curated from the official index. The rendez-vous page is a consistent suffix (/Prendre-un-rendez-vous) on the shared 'services de l'État' CMS, so the RDV page URL is templatable. Per-department appointment motifs, office routing (préfecture vs sous-préfecture, by commune) and booking modules vary — always confirm on the département's own page. When an entry is missing or stale, the national index is authoritative. SCAM WARNING: préfecture appointments are FREE; never follow a non-.gouv.fr 'rendez-vous' link and never pay for a slot (taxes are timbres fiscaux, bought only on timbres.impots.gouv.fr). Some titre-de-séjour démarches go through ANEF (administration-etrangers-en-france.interieur.gouv.fr), NOT a préfecture RDV — route accordingly.",
+  "centres": [
+    {
+      "department": "Val-de-Marne",
+      "aliases": [
+        "94",
+        "val de marne"
+      ],
+      "siteUrl": "https://www.val-de-marne.gouv.fr",
+      "rdvPageUrl": "https://www.val-de-marne.gouv.fr/Prendre-un-rendez-vous",
+      "motifs": [
+        "Service des étrangers (office by commune: Préfecture de Créteil / sous-préfecture de l'Haÿ-les-Roses / sous-préfecture de Nogent-sur-Marne)",
+        "Remise de titre de séjour (rendez-vous pour une remise de titre)",
+        "Point d'accueil numérique étrangers",
+        "Plateforme Naturalisation (aide à la constitution du dossier dématérialisé)",
+        "Point d'accueil numérique ANTS (carte grise / permis / pré-demandes CNI-passeport)",
+        "Sécurité routière (commission médicale des permis)"
+      ],
+      "inPersonFallback": "Préfecture du Val-de-Marne, Direction des migrations et de l'intégration, 21-29 avenue du Général de Gaulle, 94000 Créteil",
+      "notice": "Some étrangers démarches route via ANEF, not this RDV. Remise de titre: choose a date only from the day after your previous titre expires; you may also receive the RDV by SMS. If no slots, retry a few days later (all released slots get booked quickly) or request by email pref-etrangers@val-de-marne.gouv.fr.",
+      "retrievedAt": "2026-07-04",
+      "nextCheck": "2026-10-04",
+      "verified": true
+    },
+    {
+      "department": "Yvelines",
+      "aliases": [
+        "78"
+      ],
+      "siteUrl": "https://www.yvelines.gouv.fr",
+      "rdvPageUrl": "https://www.yvelines.gouv.fr/Prendre-un-rendez-vous",
+      "motifs": [
+        "Préfecture de Versailles: renouvellement de titre de séjour (Hors démarches ANEF); remise de titre de séjour ou titre de voyage; renouvellement de récépissé (Hors ANEF); passeport de mission (demande / remise); contrôle médical; point d'accueil numérique ANTS",
+        "Sous-préfecture de Saint-Germain-en-Laye: 1ères demandes de titre de séjour (arrondissement de St-Germain uniquement); point d'accueil numérique permis / immatriculation; déclaration de nationalité"
+      ],
+      "inPersonFallback": "Préfecture des Yvelines, 2 avenue de l'Europe, Versailles",
+      "notice": "Renouvellement/récépissé marked 'Hors démarches ANEF' → the ANEF cases go through ANEF, not this RDV. 1ères demandes are handled by the sous-préfecture de Saint-Germain-en-Laye (arrondissement only). If no online slot, deposit a demande directly at the préfecture (2 avenue de l'Europe, Versailles), or enable the official ANEF SMS alert for a freed slot where applicable.",
+      "retrievedAt": "2026-07-04",
+      "nextCheck": "2026-10-04",
+      "verified": true
+    }
+  ]
+}
