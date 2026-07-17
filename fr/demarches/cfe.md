@@ -38,6 +38,19 @@ of the creation year**, and nothing reminds you.
 - Year after creation: the base is halved.
 - Verify the avis each November even when expecting 0 €.
 
+## CFE n'est que la moitié : la CVAE (au-delà de 500 000 € de CA)
+La CFE est une des deux composantes de la **CET (contribution économique
+territoriale)** ; l'autre est la **CVAE (cotisation sur la valeur ajoutée des
+entreprises)** :
+- **CA > 500 000 €** : la CVAE est **due** (taux progressif selon le CA).
+- **CA > 152 500 €** : une **déclaration 1330-CVAE** est exigée même quand rien
+  n'est dû.
+- La CVAE est **en cours de suppression progressive** (taux réduits d'année en
+  année, suppression programmée) — vérifier le barème de l'année en cours sur
+  impots.gouv.fr avant de conclure.
+Ce guide couvre la CFE ; une entreprise au-dessus de ces seuils doit traiter la
+CVAE en plus.
+
 ## Pièces justificatives
 - The 1447-C form (impots.gouv.fr); company identity (SIREN, activity, creation
   date); premises details or the domiciliation address (cadre A2).
@@ -61,6 +74,7 @@ of the creation year**, and nothing reminds you.
 - Phishing emails imitating DGFiP notifications (pay-link = fake).
 
 ## Sources
+- impots.gouv.fr — « Cotisation sur la valeur ajoutée des entreprises (CVAE) » (seuils 152 500 € / 500 000 €, suppression progressive) (checked 2026-07)
 - impots.gouv.fr — « Cotisation foncière des entreprises (CFE) » + formulaire
   1447-C (checked 2026-07)
 - service-public.gouv.fr — « CFE : déclaration et paiement » (checked 2026-07)
