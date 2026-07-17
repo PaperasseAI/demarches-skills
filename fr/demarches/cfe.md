@@ -32,6 +32,14 @@ of the creation year**, and nothing reminds you.
      your proof of the regularisation date. The accusé also asks you **not to
      re-submit the same demande** while it is being processed — one demande per
      subject, follow it in the messagerie rather than opening duplicates.
+   - Expect **two demandes, not one**: the DGFiP closes each thread when it
+     replies ("cette demande est terminée… vous devez déposer une autre demande"),
+     so the signed 1447-C goes in a **new demande of type « Déposer un document »**
+     — quote the first demande's number in the message so the SIE links the two.
+   - Timing: the reply to the question can come **next day**; the final
+     acknowledgment of the deposited form can take **weeks** — it's done when the
+     deposit demande shows **« Demande traitée »** with the SIE's accusé of the
+     document.
 4. **Every following year**: no new declaration unless something changes (premises,
    surface, activity). The **avis de CFE** appears in the espace pro around
    **November**; payment is due **15 December**.
