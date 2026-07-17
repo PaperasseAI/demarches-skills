@@ -12,7 +12,7 @@ both channels — "which box do I write in" and "which online field do I fill".
 
 ## Files
 - `cerfa-2042.md` — income-tax return 2042 + 2042 C PRO + annexe 2047 (revenus 2025).
-- `cerfa-1447c.md` — CFE déclaration initiale (section map; per-box detail wanted).
+- `cerfa-1447c.md` — CFE déclaration initiale (full case map, cadres A1–C, incl. the 1447-C-K pre-identified variant).
 - `cerfa-10842.md` — attestation de loyer / résidence en foyer (CAF housing-aid certification, recto/verso field map).
 
 ## Contributing a box map
