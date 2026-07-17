@@ -121,12 +121,13 @@ same-model annex if more). Omissions carry a printed fine (art. 1729 B.2 CGI:
   existing before).
 - Forgetting the **single signature** at the bottom of page 1 (A2 area) after
   spending all the effort on B and C.
-- The **K** copy arriving at the domiciliation address (it goes to the siège) and
-  never reaching the founder — same postal trap as the espace-pro activation code.
-  Note the K travels **by post only**: in a messagerie regularisation the SIE
-  typically attaches nothing and just asks you to return "l'imprimé 1447-C complété
-  et signé" — use the K if you can retrieve it (domiciliation mail scans), else
-  download the **blank 1447-C (same cerfa 14187, same cases)** from impots.gouv.fr.
+- **Getting the form** — three channels: the pre-identified **K** posted to the
+  siège (the copy a domiciliated founder often never sees), the **same K
+  downloadable from the espace professionnel** (documents/courriers — the recovery
+  path when the posted copy is lost at the domiciliation), and the **blank 1447-C**
+  (same cerfa 14187, same cases) from impots.gouv.fr. In a messagerie
+  regularisation the SIE typically attaches nothing and just asks you to return
+  "l'imprimé 1447-C complété et signé" — fetch it yourself via one of the three.
 - Deadline is printed on the form: return **before 1 January** of the CFE year.
 
 ## Sources
