@@ -59,6 +59,16 @@ or `anef-debloquer.md`-style) captures it, with these sections:
 2. **Known causes & fixes** — one per bullet, each labelled **observed practice
    with a date** (per CONTRIBUTING). This is the crowdsourced heart: found a fix
    that worked? PR that ONE bullet with when/how you observed it.
+   **Forked resolutions** (different fixes "worked" for the same symptom) are
+   almost always under-specified context, so every bullet carries its
+   discriminator: *when [observable context] → do [fix] (observed MM/YYYY)*.
+   A fix PR without a "when" gets asked for one in review. Order bullets by
+   **cost** (harmless checks first; fixes with side effects — e.g. a redeposit
+   that duplicates a dossier — last and flagged). Genuine contradictions
+   coexist, dated ("mixed reports"); the freshness rule retires whichever the
+   administration's next patch obsoletes. If one symptom accumulates many
+   bullets, promote it to its own subsection (the section organizes
+   symptom → fixes).
 3. **The evidence spec** — what support demands (screenshot rules, documents), so
    the next person's first message is complete.
 4. **The escalation ladder** — official support → formal levers (Défenseur des
