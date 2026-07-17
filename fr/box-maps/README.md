@@ -30,6 +30,14 @@ both channels — "which box do I write in" and "which online field do I fill".
 5. **Freshness.** When a new édition ships, re-verify against the new notice and bump
    `sources_verified` + `edition`. Guides older than 6 months must be re-verified
    (repo rule).
+6. **Map every signature box (✍️).** For each one: where it is (page + cadre), **who
+   signs** (déclarant, landlord, establishment manager…), and what that signature
+   legally covers — then state the **total count** ("one signature box on the form" /
+   "three in total; a complete file has every applicable one signed"). An unsigned
+   form is the most common way a filing silently fails, and the signature is the one
+   act that always stays with the human — a form map that doesn't locate it is
+   incomplete. Add the matching piège (unsigned form, missed second signature, wrong
+   side signed).
 
 Wanted next: 2044 (revenus fonciers), 2035 (BNC), 2033/2065 (IS liasse — corporate),
 1447-C (CFE), and box maps for other jurisdictions under their own `<iso>/box-maps/`.

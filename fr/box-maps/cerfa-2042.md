@@ -156,7 +156,9 @@ les mêmes en ligne.
   État civil D1/D2 (nom de naissance, prénoms, date + lieu de naissance, nom d'usage, téléphone, mél).
   **Adresse au 1ᵉʳ janvier 2026** + statut (propriétaire / locataire / colocataire / hébergé
   gratuitement — le statut « hébergé » déclenche l'attestation d'hébergement, voir encart).
-  Changements d'adresse 2025 et 2026 (dates + anciennes/nouvelles adresses). Signature. Cases **ØIF**
+  Changements d'adresse 2025 et 2026 (dates + anciennes/nouvelles adresses). **✍️ Signature — l'unique
+  case de signature du formulaire, page 1** : pour une déclaration commune (mariés/pacsés), **les DEUX
+  déclarants signent** ; une 2042 papier non signée n'est pas une déclaration. Cases **ØIF**
   (vous souscrivez une déclaration IFI) et **ØTA** (dépôt au titre d'un mandat).
 - **Page 2 — foyer fiscal.** §A situation 2025: **M** marié · **O** pacsé · **D** divorcé/séparé ·
   **C** célibataire · **V** veuf + dates des changements (mariage/pacs **X**, divorce/séparation/rupture
