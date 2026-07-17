@@ -27,7 +27,15 @@ fr/                       ← France (other jurisdictions welcome — see CONTRI
 ├── portails/             ← which official portal for what + how to spot fakes
 ├── documents/            ← what each French admin document is and proves
 └── box-maps/             ← meaning of every box code on an official form (cartes des cases)
+
+ng/                       ← Nigeria (origin-country documents + how to use them abroad)
+├── documents/            ← Nigerian documents (NPC birth certificate, WAEC…) and their structure
+└── demarches/            ← e.g. legalising Nigerian documents for use in France
 ```
+
+Origin-country folders like `ng/` cover the documents a person **brings** to a
+destination-country démarche (a Nigerian student's NPC birth certificate for a French
+visa), and how to make them usable there. Same TEMPLATE + citation rules.
 
 ## Relationship with Paperasse AI
 
