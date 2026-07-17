@@ -29,6 +29,9 @@ apply as soon as the lease starts, the benefit is not retroactive.
 ## Pièces justificatives
 - RIB in your name, lease + landlord details, income of the reference period, titre de
   séjour for non-EU nationals, student card / enrolment if applicable.
+- The CAF may require the signed **attestation de loyer** from the landlord (cerfa
+  10842 — field map: [../box-maps/cerfa-10842.md](../box-maps/cerfa-10842.md));
+  for foyer/CROUS residents it is the verso, signed by the establishment manager.
 
 ## Délais et échéances
 - **No retroactivity**: rights open the month following the request — file at move-in.
