@@ -27,6 +27,11 @@ of the creation year**, and nothing reminds you.
    for the **signed 1447-C** returned through the messagerie ("déposer un
    document"). With CFE due = 0 € (see below) a late initiale is normally fixed
    **without penalty** — but confirm with your SIE.
+   - Each demande issues a numbered **accusé de réception** (PDF, with deposit
+     date/time and the full text of your message) — download and keep it: it is
+     your proof of the regularisation date. The accusé also asks you **not to
+     re-submit the same demande** while it is being processed — one demande per
+     subject, follow it in the messagerie rather than opening duplicates.
 4. **Every following year**: no new declaration unless something changes (premises,
    surface, activity). The **avis de CFE** appears in the espace pro around
    **November**; payment is due **15 December**.
