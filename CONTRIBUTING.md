@@ -17,6 +17,20 @@ as authoring a full guide.
    click-paths or automation flows. Those rot instantly and read as instructions to
    agents; this repo is grounding, not automation.
 
+## The easiest contribution: you unblocked a stuck démarche
+
+A téléservice bug beat you, and you found the fix? That knowledge usually dies in
+a group chat — here it becomes a **one-bullet PR** to a *débloquer card* (e.g.
+`fr/demarches/anef-debloquer.md`, « Étape 0 »):
+
+> *when [the situation you observed] → do [what worked] (observed MM/YYYY)*
+
+The "when" matters: different fixes for the same error are almost always different
+situations — say which one yours was. No card exists yet for the system that broke
+(CAF, France Travail…)? Open an issue with your dated observations, or start the
+card from the « Débloquer cards » section of `TEMPLATE.md` — one lived case is
+enough to found one.
+
 ## Sign-off (DCO)
 
 Add `Signed-off-by: Your Name <email>` to your commits (`git commit -s`) —
