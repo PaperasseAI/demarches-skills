@@ -3,7 +3,7 @@ slug: fr-depot-marque
 jurisdiction: fr
 title: Déposer une marque à l'INPI
 audience: Founders and creators protecting a name/logo in France
-last_updated: 2026-07-11
+last_updated: 2026-07-17
 sources_verified: 2026-07-11
 ---
 
@@ -38,8 +38,24 @@ A French trademark is filed online at the INPI, per **classes** of goods/service
 ## Pièges connus
 - Skipping the similarity search and losing to an opposition.
 - Filing in the wrong/too-few classes (no adding classes later — new filing needed).
-- Paying fake "European register" invoices that mimic official mail.
+- **Post-publication scam letters (observed practice, 2026-07).** Within days of the
+  BOPI publication, private companies scrape the register and mail **official-looking
+  fake invoices** built from your mark's real public data (number, classes, holder,
+  address), demanding hundreds of euros for bogus "registration / monitoring /
+  publication". Names rotate ("Trademarks Worldwide", WIPT/IPTR, WLTP, EUTM-Register,
+  TM-Collection, IOPTM, "Intellectual Property Data Base"…), so learn the **tells**:
+  - the fine print itself admits *« ceci n'est pas une facture »* / "this is not an
+    invoice" / *« offre sans obligation de payer »* ;
+  - payment goes to a private company that is **not** the INPI/EUIPO/WIPO, often on a
+    **foreign IBAN** or via a **QR code**.
+  - **Rule of thumb: any payment demand about your mark from any body other than the
+    INPI (France), EUIPO (EU) or WIPO (international) is a scam.** The real offices
+    never invoice by post after filing — your only fee was paid at filing.
+  - Action: don't pay, reply, or scan the QR; keep a copy; report to INPI
+    (sollicitations frauduleuses) and **signal.conso.gouv.fr** (DGCCRF). It does not
+    affect your mark — registration proceeds normally.
 
 ## Sources
+- inpi.fr — « Sollicitations frauduleuses » (avertissement officiel sur les fausses factures) (checked 2026-07)
 - inpi.fr — « Déposer une marque » + tarifs (checked 2026-07)
 - service-public.gouv.fr — « Protéger une marque » (checked 2026-07)
