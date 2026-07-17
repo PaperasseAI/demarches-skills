@@ -106,3 +106,8 @@ générale des étrangers en France), typically with a **written response deadli
 - Field-level causes + evidence spec: **observed practice** from ANTS/ANEF
   support replies on a real blocked renouvellement (2026-06), labelled per the
   repo's observed-practice rule
+
+---
+**Fixed a blockage this card doesn't list?** PR one bullet to « Étape 0 » with
+what you observed and when — that's exactly how this card grows (see TEMPLATE.md,
+« Débloquer cards »).

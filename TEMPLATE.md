@@ -48,6 +48,26 @@ same front-matter and citation discipline but their own natural sections:
 - `portails/` — official portals and how to spot look-alikes.
 - `box-maps/` — per-form box semantics; see the folder's own README for its rules.
 
+## Débloquer cards — how to unstick a démarche (crowdsource your fix!)
+
+When a démarche fails because the STATE fails (a téléservice bug, a silent
+préfecture, a lost form), the fix knowledge is discovered by individuals and
+usually dies in group chats. A **débloquer card** (`<iso>/demarches/<x>-debloquer.md`
+or `anef-debloquer.md`-style) captures it, with these sections:
+
+1. **The symptom** — the exact error/blockage, quoted.
+2. **Known causes & fixes** — one per bullet, each labelled **observed practice
+   with a date** (per CONTRIBUTING). This is the crowdsourced heart: found a fix
+   that worked? PR that ONE bullet with when/how you observed it.
+3. **The evidence spec** — what support demands (screenshot rules, documents), so
+   the next person's first message is complete.
+4. **The escalation ladder** — official support → formal levers (Défenseur des
+   droits…) → the legal rung, each with realistic timelines.
+5. Pièges + Sources (jurisprudence when it exists; observed practice labelled).
+
+Fixes go stale when the administration patches the bug — the 6-month freshness
+rule applies with extra force here; date everything.
+
 ## Cross-border content — file by role, never by direction
 
 A cross-border journey (e.g. using a Nigerian birth certificate for a French visa) is
