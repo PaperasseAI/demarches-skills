@@ -25,7 +25,8 @@ fr/                       ← France (other jurisdictions welcome — see CONTRI
 ├── demarches/            ← one guide per démarche (TEMPLATE.md format)
 ├── pieces/               ← supporting-document checklists
 ├── portails/             ← which official portal for what + how to spot fakes
-└── documents/            ← what each French admin document is and proves
+├── documents/            ← what each French admin document is and proves
+└── box-maps/             ← meaning of every box code on an official form (cartes des cases)
 ```
 
 ## Relationship with Paperasse AI
