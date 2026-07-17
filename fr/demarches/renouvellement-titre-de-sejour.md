@@ -44,6 +44,8 @@ mean losing work rights and paying the visa-regularisation surcharge.
   the decision notice or service-public.gouv.fr.
 
 ## Pièges connus
+- **Le téléservice ANEF bloque ?** (erreur à l'enregistrement, dépôt impossible) —
+  causes connues, spec des preuves et échelle d'escalade : [anef-debloquer](anef-debloquer.md).
 - Waiting for a préfecture email that never comes — track the ANEF espace messages.
 - Paying a "rendez-vous" site: préfecture slots are **free**, only .gouv.fr links count.
 - Changing address without updating ANEF — notifications go astray.
