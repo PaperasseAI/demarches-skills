@@ -29,12 +29,6 @@ fr/                       ← France (other jurisdictions welcome — see CONTRI
 └── box-maps/             ← meaning of every box code on an official form (cartes des cases)
 ```
 
-Other jurisdictions live at the top level under their ISO code (e.g. `ng/` for
-Nigeria) with the same folder roles and TEMPLATE + citation rules. Origin-country
-folders cover the documents a person **brings** to a destination-country démarche
-and how to authenticate them for use abroad; the destination's own requirements for
-foreign documents live under that destination (e.g. `fr/pieces/foreign-documents.md`).
-
 ## Relationship with Paperasse AI
 
 This repo is maintained by the team behind [Paperasse AI](https://www.paperasse.ai),
