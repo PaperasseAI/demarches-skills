@@ -123,6 +123,10 @@ same-model annex if more). Omissions carry a printed fine (art. 1729 B.2 CGI:
   spending all the effort on B and C.
 - The **K** copy arriving at the domiciliation address (it goes to the siège) and
   never reaching the founder — same postal trap as the espace-pro activation code.
+  Note the K travels **by post only**: in a messagerie regularisation the SIE
+  typically attaches nothing and just asks you to return "l'imprimé 1447-C complété
+  et signé" — use the K if you can retrieve it (domiciliation mail scans), else
+  download the **blank 1447-C (same cerfa 14187, same cases)** from impots.gouv.fr.
 - Deadline is printed on the form: return **before 1 January** of the CFE year.
 
 ## Sources
