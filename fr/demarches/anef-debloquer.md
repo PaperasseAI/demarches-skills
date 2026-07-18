@@ -37,8 +37,11 @@ The generic "check your input" advice hides **specific undocumented rules**:
 - Compress attachments to the size limits; retry from a **computer**, not mobile.
 
 ## Étape 1 — the ANEF/ANTS support form, with the evidence they will demand
-Contact support via the **official contact form** (reached from the ANEF /
-ants.gouv.fr help pages — a reference number « Ref… » tracks the case). To avoid
+Contact support via the **ANEF portal's own contact form** —
+`administration-etrangers-en-france.interieur.gouv.fr/particuliers/#/contact` (a
+reference number « Ref… » tracks the case). Note: this is the ÉTRANGERS form; the
+generic `ants.gouv.fr → contact` routes to the passport/carte-grise queue instead.
+The phone line **0806 001 620** (ANTS/France Titres CCC) is the same team. To avoid
 a round-trip, supply their evidence spec immediately (observed practice, 2026-06):
 - **Full-run screenshots**: every step of the saisie **including the first**, up
   to the error — each with **date, time and URL visible**, taken **from a
@@ -107,7 +110,7 @@ générale des étrangers en France), typically with a **written response deadli
   demande blocked by the ANEF (checked 2026-07)
 - art. L.521-3 code de justice administrative (référé mesures utiles)
 - defenseurdesdroits.fr — saisine (checked 2026-07)
-- ANEF Centre de contacts citoyens: 0806 001 620 — préfecture pages (e.g. calvados.gouv.fr « Centres de contacts citoyens ANTS et ANEF ») + aide-sociale.fr/anef-contact (checked 2026-07)
+- ANEF contact form: administration-etrangers-en-france.interieur.gouv.fr/particuliers/#/contact + CCC 0806 001 620 — service-public.gouv.fr R59398 + préfecture pages (e.g. calvados.gouv.fr « Centres de contacts citoyens ANTS et ANEF ») + aide-sociale.fr/anef-contact (checked 2026-07)
 - Field-level causes + evidence spec: **observed practice** from ANTS/ANEF
   support replies on a real blocked renouvellement (2026-06), labelled per the
   repo's observed-practice rule
