@@ -32,7 +32,10 @@ fr/                       ← France (other jurisdictions welcome — see CONTRI
 ## Relationship with Paperasse AI
 
 This repo is maintained by the [Paperasse AI](https://www.paperasse.ai) team,
-the consumer copilot that guides people through these démarches in their language.
+the consumer copilot that guides people through these démarches in their language —
+as a **Chrome extension** whose agent operates the official portals like a human
+(filling and navigating for you; **you always review and submit**), a **mobile app**
+whose camera guides you box by box across paper forms (Form Lens), and a web app.
 Contributions here improve the guidance for **everyone** — the repo is MIT and works
 with any agent. Paperasse AI additionally builds automated, hand-held versions of
 well-documented démarches: **a complete, well-sourced guide here is the fastest way
