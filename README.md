@@ -1,7 +1,7 @@
 # demarches-skills 🇫🇷
 
-**Open knowledge for surviving French administrative démarches — as agent-ready
-skills.** Checklists, portal maps and document guides for the démarches individuals
+**Open knowledge for surviving government procedures — starting with French
+démarches — as agent-ready skills.** Checklists, portal maps and document guides for the démarches individuals
 (newcomers, students, expats, residents) actually face: visas, titres de séjour,
 CAF, CVEC, impôts des particuliers, ANTS…
 
