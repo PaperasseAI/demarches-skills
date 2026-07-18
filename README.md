@@ -6,7 +6,8 @@ skills.** Checklists, portal maps and document guides for the démarches individ
 CAF, CVEC, impôts des particuliers, ANTS…
 
 Skills are plain Markdown. They work with any AI agent or tool that can read files
-(Claude Code, Cursor, Codex, Windsurf, Cline, Aider…).
+(Claude Code, Cursor, Codex, Windsurf, Cline, Aider…) — **[wire it into yours in
+two minutes → USAGE.md](USAGE.md)**.
 
 ## Why this exists
 
