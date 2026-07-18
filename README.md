@@ -31,7 +31,7 @@ fr/                       ← France (other jurisdictions welcome — see CONTRI
 
 ## Relationship with Paperasse AI
 
-This repo is maintained by the team behind [Paperasse AI](https://www.paperasse.ai),
+This repo is maintained by the [Paperasse AI](https://www.paperasse.ai) team,
 the consumer copilot that guides people through these démarches in their language.
 Contributions here improve the guidance for **everyone** — the repo is MIT and works
 with any agent. Paperasse AI additionally builds automated, hand-held versions of
