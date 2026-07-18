@@ -44,6 +44,10 @@ a round-trip, supply their evidence spec immediately (observed practice, 2026-06
   to the error — each with **date, time and URL visible**, taken **from a
   computer**;
 - a copy of your **current titre**, your **postal address**, **email**, **phone**.
+You can also call the **ANEF Centre de contacts citoyens (CCC)**: **0806 001 620**
+(tarif appel local, non surtaxé), Mon–Fri — hours vary by period (commonly ~8h30–17h;
+some regions wider), confirm on ants.gouv.fr. The CCC handles titre-de-séjour
+technical difficulties and can advise on the bug.
 Expect a first generic reply (the checklist above), then a technical escalation.
 A real escalation exists: cases get taken over by the **DGEF** (Direction
 générale des étrangers en France), typically with a **written response deadline**
@@ -103,6 +107,7 @@ générale des étrangers en France), typically with a **written response deadli
   demande blocked by the ANEF (checked 2026-07)
 - art. L.521-3 code de justice administrative (référé mesures utiles)
 - defenseurdesdroits.fr — saisine (checked 2026-07)
+- ANEF Centre de contacts citoyens: 0806 001 620 — préfecture pages (e.g. calvados.gouv.fr « Centres de contacts citoyens ANTS et ANEF ») + aide-sociale.fr/anef-contact (checked 2026-07)
 - Field-level causes + evidence spec: **observed practice** from ANTS/ANEF
   support replies on a real blocked renouvellement (2026-06), labelled per the
   repo's observed-practice rule
