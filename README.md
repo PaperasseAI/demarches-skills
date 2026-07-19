@@ -15,9 +15,24 @@ French admin knowledge is scattered, changes constantly, and mostly circulates a
 folklore in expat groups. This repo makes it **verifiable** (every claim cites an
 official source), **maintained** (see freshness rules) and **usable by agents**.
 
-Inspired by the approach of [`romainsimon/paperasse`](https://github.com/romainsimon/paperasse)
-(MIT), which equips the **professions** of French paperwork (accounting, notarial
-law, audit) — this repo equips **individuals** facing the system.
+## Not to be confused with `romainsimon/paperasse`
+
+Two open-source projects share the word *paperasse* (French for "paperwork"), and
+they are easy to mix up. They are **separate, unaffiliated projects**:
+
+- [`romainsimon/paperasse`](https://github.com/romainsimon/paperasse) (MIT)
+  pioneered skills-as-files for the **professions** of French paperwork —
+  accountant, notarial and audit expertise, with data files and evals verified
+  against official simulators.
+- **This repo** equips **individuals** facing the system — démarche guides, box
+  maps, débloquer cards — citation-enforced against official sources. It shares
+  the *approach*, not the content: **nothing here is derived from his files**;
+  every card is authored against the cited official source.
+
+Credit where due beyond the idea: the [Paperasse.ai](https://paperasse.ai)
+product (separate from this repo) adapted two of his skills — the personal-tax
+expert and the tax-audit simulation — with attribution preserved under the MIT
+license.
 
 ## Structure
 
