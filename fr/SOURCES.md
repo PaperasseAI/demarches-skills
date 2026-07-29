@@ -4,7 +4,8 @@ Primary (cite these):
 - service-public.fr — the reference for individual démarches
 - legifrance.gouv.fr — the law itself (CGI, CESEDA…)
 - administration-etrangers-en-france.interieur.gouv.fr (ANEF) — residence/visa procedures
-- france-visas.gouv.fr — visas
+- france-visas.gouv.fr — visas (enter via the HOME page: news banners carry dated rule changes)
+- pastel.diplomatie.gouv.fr/etudesenfrance — Études en France (EEF) platform
 - impots.gouv.fr / bofip.impots.gouv.fr — personal tax
 - caf.fr — family/housing benefits · ameli.fr — health insurance
 - ants.gouv.fr — ID, permits, vehicle documents
