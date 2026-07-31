@@ -20,16 +20,17 @@ as authoring a full guide.
 ## The easiest contribution: you unblocked a stuck démarche
 
 A téléservice bug beat you, and you found the fix? That knowledge usually dies in
-a group chat — here it becomes a **one-bullet PR** to a *débloquer card* (e.g.
-`fr/demarches/anef-debloquer.md`, « Étape 0 »):
+a group chat — here it becomes a **one-bullet PR** to the démarche's « En cas de
+blocage » section (e.g. `fr/demarches/renouvellement-titre-de-sejour.md`,
+« Causes connues »):
 
 > *when [the situation you observed] → do [what worked] (observed MM/YYYY)*
 
 The "when" matters: different fixes for the same error are almost always different
-situations — say which one yours was. No card exists yet for the system that broke
-(CAF, France Travail…)? Open an issue with your dated observations, or start the
-card from the « Débloquer cards » section of `TEMPLATE.md` — one lived case is
-enough to found one.
+situations — say which one yours was. The guide for the system that broke
+(CAF, France Travail…) has no such section yet? Open an issue with your dated
+observations, or add the « En cas de blocage » section per `TEMPLATE.md` — one
+lived case is enough to found it.
 
 ## Sign-off (DCO)
 

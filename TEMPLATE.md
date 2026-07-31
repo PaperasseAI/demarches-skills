@@ -29,6 +29,11 @@ One paragraph: what this démarche is, who must do it, what happens if you don't
 ## Portail / Où faire la démarche
 - The official site or office (link `../portails/`). Cost, payment method (timbre fiscal…).
 
+## En cas de blocage
+- OPTIONAL until real blockage knowledge exists — then REQUIRED to live here, inside
+  the démarche it blocks (not as a separate card). See « En cas de blocage » below
+  for the section's own rules.
+
 ## Pièges connus
 - Real-world gotchas (prefecture variances, RDV scarcity, look-alike paid sites…).
 
@@ -48,12 +53,16 @@ same front-matter and citation discipline but their own natural sections:
 - `portails/` — official portals and how to spot look-alikes.
 - `box-maps/` — per-form box semantics; see the folder's own README for its rules.
 
-## Débloquer cards — how to unstick a démarche (crowdsource your fix!)
+## « En cas de blocage » — how to unstick a démarche (crowdsource your fix!)
 
 When a démarche fails because the STATE fails (a téléservice bug, a silent
 préfecture, a lost form), the fix knowledge is discovered by individuals and
-usually dies in group chats. A **débloquer card** (`<iso>/demarches/<x>-debloquer.md`
-or `anef-debloquer.md`-style) captures it, with these sections:
+usually dies in group chats. Every guide can carry an **« En cas de blocage »
+section** that captures it, inside the démarche it blocks — being stuck is a
+*state of a démarche*, not a démarche of its own. (Reference implementation:
+`fr/demarches/renouvellement-titre-de-sejour.md`.) When one blockage genuinely
+spans several démarches (a portal-wide outage pattern), document it once in the
+most-affected guide and link it from the others. The section's sub-parts:
 
 1. **The symptom** — the exact error/blockage, quoted.
 2. **Known causes & fixes** — one per bullet, each labelled **observed practice

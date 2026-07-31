@@ -44,7 +44,7 @@ with CAF, and a compromised renewal.
 
 ## Pièges connus
 - **Le téléservice ANEF bloque ?** (erreur à l'enregistrement, dépôt impossible) —
-  causes connues, spec des preuves et échelle d'escalade : [anef-debloquer](anef-debloquer.md).
+  causes connues, spec des preuves et échelle d'escalade : section « En cas de blocage » de [renouvellement-titre-de-sejour](renouvellement-titre-de-sejour.md).
 - The 3-month clock runs from **entry into the Schengen area**, not from settling in.
 - Students often conflate CVEC payment / campus registration with VLS-TS validation —
   they are separate obligations.

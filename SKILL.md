@@ -33,8 +33,7 @@ sources and carries `last_updated` / `sources_verified` dates.
 |---|---|
 | `visa-etudiant.md` | Student long-stay visa (France-Visas + Études en France) |
 | `validation-vls-ts.md` | Validating a VLS-TS after arrival |
-| `renouvellement-titre-de-sejour.md` | Residence-permit request/renewal on ANEF |
-| `anef-debloquer.md` | Unblocking a stuck ANEF application (dated fixes + escalation ladder) |
+| `renouvellement-titre-de-sejour.md` | Residence-permit request/renewal on ANEF — incl. « En cas de blocage » (dated fixes + escalation ladder for a stuck ANEF) |
 | `apl-caf.md` | CAF housing aid (APL/ALS) |
 | `carte-vitale.md` | Health-insurance affiliation + carte Vitale |
 | `declaration-revenus.md` | Income-tax declaration (first-time vs returning filer) |

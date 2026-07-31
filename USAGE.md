@@ -26,8 +26,8 @@ always the same:
 > For any question about French administrative procedures (visa, titre de
 > séjour, CAF, impôts, CFE…), consult `./demarches-skills/fr/` before answering:
 > `demarches/` (guides), `pieces/` (supporting documents), `portails/` (official
-> sites), `box-maps/` (form box meanings), `demarches/*-debloquer.md` (fixes for
-> stuck téléservices). Cite the card you used and its `sources_verified` date;
+> sites), `box-maps/` (form box meanings), and the « En cas de blocage » sections inside
+> guides (fixes for stuck téléservices). Cite the card you used and its `sources_verified` date;
 > if it is older than 6 months, say so and re-verify against the card's sources.
 
 ### As a proper Agent Skill (Claude Code, Cursor, Windsurf…)
@@ -62,7 +62,7 @@ Read the relevant file(s) under ./demarches-skills/fr/ :
 - pieces/     — supporting-document rules (incl. foreign documents)
 - portails/   — which official site, and how to spot paid look-alikes
 - box-maps/   — what each box on an official form means (2042, 1447-C…)
-- demarches/*-debloquer.md — dated fixes + escalation ladder for stuck téléservices
+- « En cas de blocage » sections in guides — dated fixes + escalation ladders for stuck téléservices
 Other jurisdictions (e.g. ng/) follow the same layout.
 Always cite the card and its sources_verified date. Guidance, not legal advice.
 MD
@@ -85,8 +85,8 @@ An ungrounded model typically misses the no-retroactivity trap — that miss is
 the value of the repo, measured in one or two months of housing aid.
 
 Try the harder ones: *"my ANEF renewal shows « une erreur empêche
-l'enregistrement »"* (→ `anef-debloquer.md`'s dated fixes and escalation
-ladder), or *"which box for micro-BNC professional income?"* (→ the 2042 box
+l'enregistrement »"* (→ the « En cas de blocage » section of
+`renouvellement-titre-de-sejour.md` — dated fixes and escalation ladder), or *"which box for micro-BNC professional income?"* (→ the 2042 box
 map: **5HQ**, not 5NP).
 
 ## What the repo will NOT do
