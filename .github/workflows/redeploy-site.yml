@@ -1,0 +1,16 @@
+# Every content change rebuilds the public site (demarches-skills.paperasse.ai) within
+# minutes: the site fetches this repo at build time, so a push here is a content deploy.
+# The hook URL only triggers builds — it can read nothing — but stays a secret to avoid
+# rebuild spam.
+name: Redeploy site
+on:
+  push:
+    branches: [main]
+jobs:
+  redeploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping Vercel deploy hook
+        run: curl -sf -X POST "$HOOK" > /dev/null
+        env:
+          HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK_URL }}
