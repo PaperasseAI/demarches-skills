@@ -32,6 +32,7 @@ sources and carries `last_updated` / `sources_verified` dates.
 | Card | Covers |
 |---|---|
 | `visa-etudiant.md` | Student long-stay visa (France-Visas + Études en France) |
+| `passeport-talent-projet-innovant.md` | French Tech Visa endorsement — the innovation attestation on demarche.numerique.gouv.fr (prerequisite for the passeport talent « projet économique innovant » visa/titre); incubator document required; full form question list |
 | `validation-vls-ts.md` | Validating a VLS-TS after arrival |
 | `renouvellement-titre-de-sejour.md` | Residence-permit request/renewal on ANEF — incl. « En cas de blocage » (dated fixes + escalation ladder for a stuck ANEF) |
 | `apl-caf.md` | CAF housing aid (APL/ALS) |
