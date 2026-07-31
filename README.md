@@ -6,8 +6,15 @@ démarches — as agent-ready skills.** Checklists, portal maps and document gui
 CAF, CVEC, impôts des particuliers, ANTS…
 
 Skills are plain Markdown. They work with any AI agent or tool that can read files
-(Claude Code, Cursor, Codex, Windsurf, Cline, Aider…) — **[wire it into yours in
-two minutes → USAGE.md](USAGE.md)**.
+(Claude Code, Cursor, Codex, Windsurf, Cline, Aider…). The repo root is itself an
+**Agent Skill** ([SKILL.md](SKILL.md)) — install it in one command:
+
+```bash
+git clone https://github.com/PaperasseAI/demarches-skills ~/.claude/skills/demarches
+```
+
+(`~/.cursor/skills/` and `~/.windsurf/skills/` work the same; `git pull` to
+refresh.) Other tools and the one-line CLAUDE.md/AGENTS.md wiring: **[USAGE.md](USAGE.md)**.
 
 ## Why this exists
 

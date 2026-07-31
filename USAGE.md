@@ -15,7 +15,7 @@ always the same:
 
 | Tool | Where to point it |
 |---|---|
-| **Claude Code** | Add a line to your `CLAUDE.md` (see below), or wrap it as an Agent Skill in `.claude/skills/` |
+| **Claude Code** | Clone into `~/.claude/skills/demarches` — the repo is a ready Agent Skill (see below) — or add a line to your `CLAUDE.md` |
 | **Codex CLI** | Add a line to your `AGENTS.md` |
 | **Cursor** | Add a rule (`.cursor/rules/`), or `@`-mention the folder in chat |
 | **Windsurf / Cline / Aider** | Open the repo in the workspace / `aider --read demarches-skills/...` |
@@ -30,7 +30,23 @@ always the same:
 > stuck téléservices). Cite the card you used and its `sources_verified` date;
 > if it is older than 6 months, say so and re-verify against the card's sources.
 
-### Claude Code, as a proper Agent Skill
+### As a proper Agent Skill (Claude Code, Cursor, Windsurf…)
+
+The repo root **is** an Agent Skill — `SKILL.md` carries the card index and the
+citation rules. Installing it is just cloning into your tool's skills folder:
+
+```bash
+# Claude Code, user-wide (or .claude/skills/demarches for per-project)
+git clone https://github.com/PaperasseAI/demarches-skills ~/.claude/skills/demarches
+
+# Cursor / Windsurf: same clone into ~/.cursor/skills/ or ~/.windsurf/skills/
+```
+
+`git pull` in that folder to refresh the cards. No wrapper file needed — the
+hand-rolled pointer skill below is only for keeping the clone elsewhere:
+
+<details>
+<summary>Pointer-skill variant (repo cloned outside the skills folder)</summary>
 
 ```bash
 mkdir -p .claude/skills/demarches-fr
@@ -51,6 +67,8 @@ Other jurisdictions (e.g. ng/) follow the same layout.
 Always cite the card and its sources_verified date. Guidance, not legal advice.
 MD
 ```
+
+</details>
 
 ## Prove it in one prompt
 
