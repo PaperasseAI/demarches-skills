@@ -18,6 +18,10 @@ refresh.) Other tools and the one-line CLAUDE.md/AGENTS.md wiring: **[USAGE.md](
 
 ## Why this exists
 
+> The long version of this section is our article **[Government procedures, as open
+> knowledge cards](https://medium.com/@paperasse/government-procedures-as-open-knowledge-cards-95833d88167b)** — why a company open-sources
+> its knowledge layer, and how two-minute contributions scale it across countries.
+
 French admin knowledge is scattered, changes constantly, and mostly circulates as
 folklore in expat groups. This repo makes it **verifiable** (every claim cites an
 official source), **maintained** (see freshness rules) and **usable by agents**.
