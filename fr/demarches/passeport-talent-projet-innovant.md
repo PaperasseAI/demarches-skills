@@ -38,6 +38,12 @@ If you were told "you need a French government endorsement", you are on the
   Either way, an incubator acceptance/support document is **required**; a bare
   business plan will not carry the file. Get the incubator relationship in place
   first — it is the slow part.
+  - **Official list of referenced structures:** the partner incubators/accelerators
+    are those referenced by **La French Tech** / listed via **Business France
+    (Welcome to France)** — check a structure is on that list before you rely on
+    it (see Sources). The innovative nature of the project is then recognised by
+    the **DRIEETS Île-de-France** (Ministère de l'Économie), which issues the
+    recognition letter.
 - Co-founders can be listed; each founder states whether they are also applying
   for a titre via the French Tech Visa procedure.
 
@@ -141,7 +147,16 @@ Confirm the exact list on the procedure page before submitting — it can change
   "Projet économique Innovant (French Tech Visa for Founders)" — Demande d'une
   attestation reconnaissant le caractère innovant d'un projet »):
   demarche.numerique.gouv.fr — observed on an accepted dossier, 2026-08-01.
-- Passeport talent « projet économique innovant » / French Tech Visa programme and
-  the referenced-incubator requirement: service-public.fr and the official French
-  Tech Visa programme page — confirm the current referenced-incubator list and
-  document list there before applying (checked 2026-08-01).
+- French Tech Visa programme and the partner/referenced-structure route:
+  **lafrenchtech.gouv.fr** (La Mission French Tech) — official programme page
+  (checked 2026-08-01).
+- Official partner-structure list + procedure detail: **Business France —
+  "Welcome to France"** (welcometofrance.com), the public body the French Tech
+  page points to for the current referenced incubators/accelerators (checked
+  2026-08-01).
+- Recognition of the innovative nature (the recognition letter) is issued by the
+  **DRIEETS Île-de-France** (Ministère de l'Économie); the request is filed on
+  demarche.numerique.gouv.fr. Confirm the current referenced-structure list and
+  document requirements on the official sources above before applying.
+- Passeport talent « projet économique innovant » general conditions:
+  service-public.fr (checked 2026-08-01).
