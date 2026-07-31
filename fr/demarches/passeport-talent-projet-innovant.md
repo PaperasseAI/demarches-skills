@@ -17,14 +17,22 @@ first, then you apply for the visa (from abroad) or the titre de séjour (change
 status in France) with it. This card covers the **endorsement step** — the piece
 founders most often lack and cannot find a clear path to.
 
-**Do not confuse it with « création d'entreprise ».** These are two different
-passeport talent sub-types:
-- **projet économique innovant** — needs the **innovation attestation** below
-  (endorsement-based). This is the French Tech Visa.
-- **création d'entreprise** — needs **≈ 30 000 € invested + resources ≥ SMIC**
-  (money-based). **No innovation attestation.**
-If you were told "you need a French government endorsement", you are on the
-**projet économique innovant** path, not création d'entreprise.
+**« Passeport talent » is a whole family — this card is only the FOUNDER
+« projet économique innovant » path.** Do not confuse it with:
+- **création d'entreprise** — also a founder path, but **money-based**
+  (≈ 30 000 € invested + resources ≥ SMIC). **No innovation attestation.**
+- **salarié qualifié** and the **carte bleue européenne (EU Blue Card)** —
+  **employee** paths: getting a (tech) **job with a French company** above a
+  salary threshold. No innovation attestation, no incubator. Different route
+  entirely.
+- chercheur, investisseur, profession artistique, famille — other sub-types.
+
+Tell them apart by the trigger:
+- "my project must be **recognised as innovant** / I was told I need a
+  **French government endorsement**" → **this card** (projet innovant).
+- "I have (or want) a **job offer** from a French company" → employee path
+  (salarié qualifié / Blue Card), **not** this card.
+- "I want to **invest ~30 000 €** and start a company" → création d'entreprise.
 
 ## Éligibilité / Qui est concerné
 - Founders (or founding-team members) of a **genuinely innovative project** who
